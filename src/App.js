@@ -7,7 +7,10 @@ function App() {
     <div>
       <Fragment>
         <Header/>
+        <main>
         <Meals/>
+        </main>
+        
       </Fragment>
     </div>
   );
