@@ -15,7 +15,7 @@ const MealItemForm = (props) =>{
             step:'1'
           }}
           />
-          <button>+Add</button>
+          <button >+Add</button>
         </form>
     )
 }
